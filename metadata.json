@@ -1,0 +1,6 @@
+{
+  "name": "CreatorShield AI",
+  "description": "Premium Channel & Video Compliance Auditor for YouTubers to protect against Inauthentic Content sweeps and Reused Content demonetization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
